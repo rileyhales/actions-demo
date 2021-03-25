@@ -8,5 +8,5 @@ setup(
     author='Riley Hales',
     license='BSD 3-Clause Clear',
     python_requires='>=3',
-    install_requires=['numpy', ],
+    install_requires=[],
 )
